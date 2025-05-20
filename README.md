@@ -1,7 +1,7 @@
 # Hi, I'm Mar!
 ### Data Analyst
 
-## Project 1: Customer Support Overview - Performance & Insights () 
+## Project 1: Customer Support Overview - Performance & Insights (https://github.com/marloher/mar-s_portfolio/blob/main/Customer%20Support%20Overview%20-%20Performance%20%26%20Insights.pdf) 
 
 ### Technical Skills
 Power BI, SQL
