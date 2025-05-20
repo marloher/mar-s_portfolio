@@ -1,9 +1,11 @@
-# Hi, I'm Mar!
-### Data Analyst
+# Hi, I'm Mar! | Data Analyst
 
 
 ### Projects
+Check some of my work:
+
 [Project 1: Customer Support Overview - Performance & Insights](https://github.com/marloher/mar-s_portfolio/blob/main/Customer%20Support%20Overview%20-%20Performance%20%26%20Insights.pdf) 
+
 
 
 ### Technical Skills
@@ -11,9 +13,13 @@ Power BI, SQL
 
 
 ### Education
-- Business Inteligence, Master's degree | UNIR (_Oct. 2024_)
-- Experience Design and Digital Customer Experience, Postgraduate's degree | IEBS Business School (_Oct. 2022_)
-- Tourism Marketing: Innovation & Digitalisation, Master's degree | IMF Business School (_Mar. 2021_)
+Business Inteligence, Master's degree | UNIR (_Oct. 2024_)
+
+Experience Design and Digital Customer Experience, Postgraduate's degree | IEBS Business School (_Oct. 2022_)
+
+Tourism Marketing: Innovation & Digitalisation, Master's degree | IMF Business School (_Mar. 2021_)
+
+
 
 
 ### Work Experience 
@@ -21,6 +27,12 @@ Power BI, SQL
 - Use of Microsoft applications (Power BI, SQL Server, Power Query Editor).
 - Data connection, transformation, and visualization (ETL).
 - Creation of measures and calculated columns within semantic models (DAX).
+
+**International Experience & Intercultural Development in Australia & Indonesia (_Mar. 2024 - Mar. 2025_)**
+- Development of adaptability and communication skills in multicultural environments.
+- Analysis of local markets in sectors such as tourism and technology.
+- Interaction with international professionals and learning about business models.
+- Development of resilience, critical thinking, and problem-solving skills.
 
 **CX Data Analyst @ Avantio (_Sep. 2021 - Apr.2024_)**
 - Data extraction and report generation that provide insights to various teams such as Customer Care.
